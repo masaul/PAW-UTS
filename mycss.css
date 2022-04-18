@@ -1,0 +1,67 @@
+body{
+    background-color: #D5D8DC;
+}
+.box-form-signin{
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    margin: 85px auto;
+}
+.box-form-signup{
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    margin: 85px auto;
+}   
+.border-top-box-form{
+    width: 100%;
+    height: 25px;
+    background-color: #27AE60 ;
+}
+
+.title-signin{
+    margin: auto;
+    width: 30%;
+    margin: 10px auto;
+    border-bottom: 5px solid black;
+}
+.title-signin h2{
+    text-align: center;
+}
+
+.content-box-form{
+    width: 90%;
+    margin: 55px auto;
+}
+.content-box-form h1{
+    color: #27AE60;
+    font-size: 25px;
+}
+.form-username{
+    margin: 10px 0px;
+}
+.form-password{
+    margin:25px 0px;
+}
+.form-nama{
+    margin: 10px 0px;
+}
+.box-form-signup .form-password, .box-form-signup .form-username{
+    margin: 10px 0px;
+}
+.button-form{
+    width: 90%;
+    margin: auto;
+}
+.button-form .myButton{
+    background-color: #27AE60;
+    color: white;
+    font-size: 20px;
+}
+.button-form .myButton:hover{
+    background-color: #229954;
+}
+.button-form .myButton a{
+    text-decoration: none;
+    color: white;
+}
